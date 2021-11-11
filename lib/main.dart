@@ -14,10 +14,10 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Bienvenidos Grupo 02',
+      title: 'Bienvenidos Grupo 03',
       home: Scaffold(
           appBar: AppBar(
-            title: Text('Inicio App Grupo 02'),
+            title: Text('Inicio App Grupo 03'),
           ),
           body: SingleChildScrollView(
             child:Column(
